@@ -3,9 +3,10 @@
 public class Argumentos {
 	
 	public static void main (String[] args) {
-		for (int i = 0; i < args.length; i++){
-			System.out.println(args[i]);
-			}
+		//Aluno: Gustavo Sant'Anna dos Santos.
+		
+		System.out.println(args[0]);
+		System.out.println(args[1]);
 	}
 }
 
